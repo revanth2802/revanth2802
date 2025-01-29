@@ -59,15 +59,16 @@ I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **
 
 ## 📜 Publications  
 
-- **Federated Learning-Based Solutions for Privacy and Anonymity in the Internet of Medical Things**  
+- **CNN-Based CAPTCHA Recognition using Convolution Neural Networks- ML
+  Published in *IEEE Xplore*  link: https://ieeexplore.ieee.org/document/10838000
+  Designed and implemented a **Convolutional Neural Network (CNN) model** for automated CAPTCHA recognition, improving authentication security by 80%. Utilized **TensorFlow** and **OCR techniques** for enhanced accuracy.  
+
+- **Federated Learning-Based Solutions for Privacy and Anonymity in the Internet of Medical Things - ML**  
   Published in *IRJET, Volume 10, Issue 6*  
 
 - **Alternate Eyes for Blind - Advanced Wearable for Visually Impaired People**  
   Published in *IRJET, Volume 10, Issue 6*  
 
-- **CNN-Based CAPTCHA Recognition for Secure Authentication**  
-  Published in *IEEE Xplore*  
-  Designed and implemented a **Convolutional Neural Network (CNN) model** for automated CAPTCHA recognition, improving authentication security by 80%. Utilized **TensorFlow** and **OCR techniques** for enhanced accuracy.  
 
 ---
 
