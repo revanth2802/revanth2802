@@ -59,8 +59,8 @@ I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **
 
 ## 📜 Publications  
 
-- **CNN-Based CAPTCHA Recognition using Convolution Neural Networks- ML
-  Published in *IEEE Xplore*  link: https://ieeexplore.ieee.org/document/10838000
+- **[CNN-Based CAPTCHA Recognition using Convolution Neural Networks - ML](https://ieeexplore.ieee.org/document/10838000)**  
+  Published in *IEEE Xplore*  
   Designed and implemented a **Convolutional Neural Network (CNN) model** for automated CAPTCHA recognition, improving authentication security by 80%. Utilized **TensorFlow** and **OCR techniques** for enhanced accuracy.  
 
 - **Federated Learning-Based Solutions for Privacy and Anonymity in the Internet of Medical Things - ML**  
