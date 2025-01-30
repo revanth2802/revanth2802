@@ -60,6 +60,8 @@ I am a passionate **Software Engineer**, **Full-Stack Developer**, and **Cloud T
 
 - **AWS Certified Solutions Architect - Associate**  
 - **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**  
+- 🏅 **Best Paper Award - SRM ITDECC-24**  
+
 
 ---
 
