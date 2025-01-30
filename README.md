@@ -6,23 +6,29 @@
 
 ## 🧑‍💻 About Me  
 
-I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **Cloud Technologies Specialist**, currently pursuing my **M.S. in Software Engineering** at **San Jose State University**. With a strong foundation in **Data Structures**, **Algorithms**, and **Machine Learning**, I focus on building robust and scalable solutions across various domains, including **Artificial Intelligence**, **Cloud Infrastructure**, and **End-to-End Development**.  
+I am a passionate **Software Engineer**, **Full-Stack Developer**, and **Cloud Technologies Specialist**, currently pursuing my **M.S. in Software Engineering** at **San Jose State University**. With a strong foundation in **Data Structures, Algorithms, and System Design**, I focus on building robust and scalable solutions across various domains, including **Full-Stack Web Development, RESTful APIs, CI/CD Pipelines, and Databases**, along with **Artificial Intelligence & Machine Learning**.  
 
 ### What Drives Me:  
-- 🌟 **Passion for AI & ML**: I’m deeply intrigued by the potential of **Machine Learning** and **AI** to solve real-world problems.  
-- 🌐 **Cloud Enthusiast**: I thrive on building and deploying solutions leveraging **AWS** and containerized architectures.  
-- 💡 **Continuous Learning**: Whether it’s **Quantum Computing**, **Advanced NLP**, or the latest in **Cloud Automation**, I’m always eager to expand my knowledge.  
+- ⚙️ **Full-Stack Development**: Building **scalable** and **efficient** web applications using **React.js, Material UI, Node.js, and Express.js**.  
+- 🔗 **RESTful API & Backend Engineering**: Designing and optimizing **high-performance APIs**, microservices, and backend logic using **Node.js, FastAPI, and Flask**.  
+- 🏗️ **DevOps & CI/CD**: Automating deployments with **Docker, Kubernetes, Terraform, and Jenkins** to ensure reliability.  
+- 🛢 **Databases & Data Engineering**: Working with **PostgreSQL, MongoDB, and Redis** for structured and unstructured data processing.  
+- 🌟 **Passion for AI & ML**: Exploring **Deep Learning, LLMs, and NLP** to build intelligent applications.  
+- ☁️ **Cloud & Scalability**: Leveraging **AWS, GCP, and Azure** to develop cloud-based solutions and serverless applications.  
+- 💡 **Continuous Learning**: Staying updated on cutting-edge technologies like **Quantum Computing, Advanced NLP, and Cloud Automation**.  
 
 ---
 
 ## 🛠 Technologies I Use  
 
-- **Programming Languages**: Python, Java, JavaScript, C++, Go, SQL, NoSQL  
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn  
-- **Web & Cloud Frameworks**: React.js, Node.js, FastAPI, Docker, Kubernetes, Terraform  
-- **Databases**: PostgreSQL, MongoDB, Redis  
-- **Visualization**: R, ggplot2, Matplotlib, dplyr  
-- **Developer Tools**: Git, GitHub, Firebase, Jenkins, Visual Studio Code  
+- **Frontend Development**: React.js, Next.js, Material UI, Tailwind CSS  
+- **Backend Development**: Node.js, Express.js, FastAPI, Flask  
+- **RESTful & API Development**: GraphQL, REST, gRPC, WebSockets  
+- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-Learn, OpenAI APIs  
+- **Databases**: PostgreSQL, MongoDB, Redis, MySQL  
+- **DevOps & CI/CD**: Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
+- **Cloud Technologies**: AWS (EC2, S3, Lambda), GCP, Azure  
+- **Version Control & Collaboration**: Git, GitHub, GitLab, Firebase  
 
 ---
 
@@ -36,13 +42,13 @@ I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **
   *Terraform, AWS, Microservices, Ansible*  
   Designed scalable infrastructure using Terraform, automated CI/CD pipelines, and implemented secure microservices for authentication and task management.  
 
-- **Convolutional Neural Network for Image Classification**  
-  *Python, TensorFlow, Keras*  
-  Developed a CNN achieving 92% accuracy on a dataset with 10,000+ images. Utilized **transfer learning** to reduce training time by 40%.  
+- **Full-Stack E-Commerce Platform**  
+  *React.js, Node.js, MongoDB, Express.js*  
+  Developed a fully functional e-commerce website with **authentication, payment gateway integration, and real-time order tracking**.  
 
 - **AI-Powered Smart Home Automation**  
   *Raspberry Pi, OpenCV, Flask, MQTT*  
-  Engineered a smart home system integrating **voice control**, **IoT management**, and **facial recognition** for automation and monitoring.  
+  Engineered a smart home system integrating **voice control, IoT management, and facial recognition** for automation and monitoring.  
 
 - **Advanced Statistical Analysis Platform**  
   *R, ggplot2, dplyr, Parallel Computing*  
@@ -52,8 +58,8 @@ I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **
 
 ## 🏆 Certifications  
 
-- AWS Certified Solutions Architect - Associate  
-- Microsoft SC-900: Security, Compliance, and Identity Fundamentals  
+- **AWS Certified Solutions Architect - Associate**  
+- **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**  
 
 ---
 
@@ -68,7 +74,6 @@ I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **
 
 - **Alternate Eyes for Blind - Advanced Wearable for Visually Impaired People**  
   Published in *IRJET, Volume 10, Issue 6*  
-
 
 ---
 
@@ -86,4 +91,4 @@ I am a passionate **Software Engineer**, **Machine Learning Enthusiast**, and **
 
 ---
 
-Thanks for visiting my profile! 🚀 Let's build something amazing together.  
+🚀 Thanks for visiting my profile! Let's build something amazing together.  
